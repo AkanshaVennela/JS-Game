@@ -10,3 +10,4 @@ If a user fails to escape the obstacle then he need to start the game again by c
 In order to exit the game user can click on "cancel" which enables the user to exit from the game.
 ![sc1](https://user-images.githubusercontent.com/85068589/178669431-c1982deb-cc57-4f62-88a3-f5b5e189934c.png)
 
+![image](https://user-images.githubusercontent.com/85068589/178672433-e9076e8f-c5de-4676-aa2e-5428be37fa28.png)
