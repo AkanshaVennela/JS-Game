@@ -1,5 +1,6 @@
 # JS-Game
 This is a simple JavaScript game which is inspired by Chrome Dino game which enables users to jump in order to escape the obstacle.
+(It is advisable to operate through desktop)
 # Start the game
 User can left click on the mouse to jump in order to escape the obstacle.
 ![sc2](https://user-images.githubusercontent.com/85068589/178669440-cb19da2d-34e0-4646-8098-36703c3c30dd.png)
